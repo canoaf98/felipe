@@ -59,3 +59,5 @@ Visual Studio Code (VS Code) es un **editor de código fuente** desarrollado por
 ## [Aqui un enlace sobre Visual Studio Code:](https://www.youtube.com/watch?v=sQQRd5U1Mfs)
 ------
 
+
+![Minion](https://i.redd.it/6c1z8rlc1r931.jpg)
