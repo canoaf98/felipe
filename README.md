@@ -14,7 +14,7 @@ Aunque en realidad Markdown también se considera un lenguaje que tiene la final
 
 
 
- ## [Aquí un enlace sobre Markdown:] (https://www.youtube.com/watch?v=y6XdzBNC0_0)
+ ## [Aquí un enlace sobre Markdown] (https://www.youtube.com/watch?v=y6XdzBNC0_0)
 
 
 
