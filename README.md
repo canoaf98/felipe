@@ -33,7 +33,7 @@ En un nivel más alto, GitHub es un sitio web y un servicio en la nube que ayuda
 
 
 
-## Aqui un enlace sobre Git y GitHub:(https://www.youtube.com/watch?v=DinilgacaWs)
+## [Aqui un enlace sobre Git y GitHub:](https://www.youtube.com/watch?v=DinilgacaWs)
 -----
 
 
@@ -43,7 +43,7 @@ En un nivel más alto, GitHub es un sitio web y un servicio en la nube que ayuda
 
  Ubuntu es un sistema operativo desarrollado por la comunidad que es perfecto para laptops, computadoras de escritorio y servidores.
 
- ## Aqui un enlace sobre Ubuntu:(https://www.youtube.com/watch?v=ogQWoXHiNUM)
+ ## [Aqui un enlace sobre Ubuntu:](https://www.youtube.com/watch?v=ogQWoXHiNUM)
 ----
 
 
@@ -56,6 +56,6 @@ Visual Studio Code (VS Code) es un **editor de código fuente** desarrollado por
 
 
 
-## Aqui un enlace sobre Visual Studio Code:(https://www.youtube.com/watch?v=sQQRd5U1Mfs)
+## [Aqui un enlace sobre Visual Studio Code:](https://www.youtube.com/watch?v=sQQRd5U1Mfs)
 ------
 
