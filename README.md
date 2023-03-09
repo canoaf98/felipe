@@ -68,6 +68,6 @@ Visual Studio Code (VS Code) es un **editor de código fuente** desarrollado por
 
 ![Minion](https://th.bing.com/th/id/OIP.RdKklaZO-AcoBszp0HwnMQHaFj?pid=ImgDet&rs=1) 
 
-![Minion](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F150800287498292122%2F&psig=AOvVaw0zn6RuYviP5e_Qad4lOvld&ust=1678413253411000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjhxoLfzf0CFQAAAAAdAAAAABAE) 
+![Minion](https://i.pinimg.com/564x/51/8d/1c/518d1cbf49b30ff119a3ce870db80c87.jpg) 
 
 
